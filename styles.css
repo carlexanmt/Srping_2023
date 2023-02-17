@@ -1,5 +1,5 @@
 h1{
-    margin-left:3000px;
+    margin-left:500px;
   font-size:60px;
   color:#2F4F4F;
   
@@ -12,11 +12,12 @@ h2{
     color:#556B2F;
     font-size:35px;
     font-family: 'Josefin Sans', sans-serif;
+    margin-left:15px;
 }
 
 p{
     line-height:25px;
-    font-size:15px;
+    font-size:20px;
     
     margin-left:25px;
     margin-top:25px;
