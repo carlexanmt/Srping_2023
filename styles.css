@@ -22,6 +22,12 @@ p{
     margin-left:25px;
     margin-top:25px;
     
+    color:#708090;
+
     font-family: 'Josefin Sans', sans-serif; 
     
+  }
+
+  a{
+    color:#D3D3D3;
   }
