@@ -1,7 +1,7 @@
 h1{
-    margin-left:20px;
-  font-size:50px;
-  color:#556B2F;
+    margin-left:3000px;
+  font-size:60px;
+  color:#2F4F4F;
   
 font-family: 'Labrada', serif;
   letter-spacing:.1px;
@@ -9,13 +9,14 @@ font-family: 'Labrada', serif;
 
 
 h2{
-    color:#2F4F4F;
-    font-size:40px;
+    color:#556B2F;
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 p{
-    line-height:30px;
-    font-size:20px;
+    line-height:25px;
+    font-size:15px;
     
     margin-left:25px;
     margin-top:25px;
