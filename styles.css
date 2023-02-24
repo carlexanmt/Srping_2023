@@ -45,13 +45,14 @@ p{
 
   a{
     color:#D3D3D3;
+    font-size: 18px;
   }
 
 
 /*Links Box*/
 .button-1{ 
   border-style: solid;
-  border-color: #000000;
+  
   background-color: #808080;
   border-width: 2px;
   text-decoration: none;
@@ -67,7 +68,7 @@ p{
 .button-2{ 
   border-style: solid;
   background-color: #808080;
-  border-color: #000000;
+  
   border-width: 2px;
   text-decoration: none;
   color: #D3D3D3;
@@ -79,7 +80,7 @@ p{
 }
 .button-3{ 
   border-style: solid;
-  border-color: #000000;
+  
   background-color: #808080;
   border-width: 2px;
   text-decoration: none;
