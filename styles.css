@@ -2,7 +2,7 @@
 body {
   background-color:#181818;
 }
-
+/*typography*/
 h1{
   font-size:60px;
   color:#2F4F4F;
@@ -31,9 +31,93 @@ p{
     color:#708090;
 
     font-family: 'Josefin Sans', sans-serif; 
-    
+    text-align: justify;
   }
+  p1{
+    line-height:25px;
+    font-size:20px;
+    margin-top:25px; 
+    color:#708090; 
+    font-family: 'Josefin Sans', sans-serif;  
+  }
+  
+
 
   a{
     color:#D3D3D3;
   }
+
+
+/*Links Box*/
+.button-1{ 
+  border-style: solid;
+  border-color: #000000;
+  background-color: #808080;
+  border-width: 2px;
+  text-decoration: none;
+  color: #D3D3D3;
+  width: 120px;
+ border-bottom-right-radius: 25px;
+  display: block;
+  text-align:center;
+  margin-top:10px;
+}
+
+
+.button-2{ 
+  border-style: solid;
+  background-color: #808080;
+  border-width: 2px;
+  text-decoration: none;
+  color: #D3D3D3;
+  width: 120px;
+ border-top-left-radius: 25px;
+  display: block;
+  text-align:center;
+  margin-top:10px;
+}
+.button-3{ 
+  border-style: solid;
+  border-color: #000000;
+  background-color: #808080;
+  border-width: 2px;
+  text-decoration: none;
+  color: #D3D3D3;
+  width: 120px;
+  /*
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-rigth-radius: 25px;
+  */
+  border-radius:90px 90px 0px 90px;
+  display: block;
+  text-align:center;
+  margin-top:10px;
+}
+
+
+
+
+.top-banner {
+  
+  height: 240;
+  text-align:center;
+  padding-top: 120px;
+  background-color:black;
+  
+}
+
+.center-body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 10px;
+  
+}
+
+footer {
+  text-align:center;
+  padding: 10px 0;
+  height: 80px;  
+}
+
