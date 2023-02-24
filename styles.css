@@ -67,6 +67,7 @@ p{
 .button-2{ 
   border-style: solid;
   background-color: #808080;
+  border-color: #000000;
   border-width: 2px;
   text-decoration: none;
   color: #D3D3D3;
@@ -109,7 +110,7 @@ p{
 }
 
 .center-body {
-  width: 800px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 10px;
   
