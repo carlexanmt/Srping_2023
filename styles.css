@@ -112,8 +112,11 @@ p{
 nav {
   text-align: center;
   padding: .5px;
-  backgroun-color:blue;
+  background-color:gray;
   list-style-type:none;
+  position: fixed;
+  width: 100%;
+  opacity: 80%;
 }
 .nav-links li {
   display: inline;
@@ -129,11 +132,10 @@ nav {
 
 
 .top-banner {
-  
-  height: 240;
   text-align:center;
-  padding-top: 120px;
   background-color:black;
+  height: 120px;
+  padding-top: 70px;
   
 }
 
