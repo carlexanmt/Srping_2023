@@ -5,6 +5,9 @@ html {
 
 body {
   background-color:#181818;
+  margin: 0px;
+  padding: 0px;
+
 }
 /*typography*/
 h1{
