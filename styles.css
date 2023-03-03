@@ -98,6 +98,15 @@ p{
   margin-top:10px;
 }
 
+nav {
+  text-align: center;
+  padding: .5px;
+  backgroun-color:blue;
+  list-style-type:none;
+}
+.nav-links li {
+  display: inline;
+}
 
 
 
