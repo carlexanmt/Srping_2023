@@ -1,4 +1,8 @@
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color:#181818;
 }
@@ -19,6 +23,13 @@ h2{
     font-size:35px;
     font-family: 'Josefin Sans', sans-serif;
     margin-left:15px;
+}
+
+h3{
+  color:#2F4F4F;
+  font-size:25px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left:5px; 
 }
 
 p{
