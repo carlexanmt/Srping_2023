@@ -7,8 +7,14 @@ body {
   background-color:#181818;
   margin: 0px;
   padding: 0px;
+}
+
+img {
+      width: 100px;
 
 }
+
+
 /*typography*/
 h1{
   font-size:60px;
