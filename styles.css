@@ -10,7 +10,7 @@ body {
 }
 
 img {
-      width: 100px;
+      width: 100%;
 
 }
 
@@ -162,8 +162,12 @@ footer {
   text-align:center;
   padding: 10px 0;
   height: 80px;  
+  margin-top: 25px;
 }
 
+.article-image {
+  width: 300px;
+}
 
 /* Mobile Styles*/
 
