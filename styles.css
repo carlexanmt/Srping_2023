@@ -158,3 +158,55 @@ footer {
   height: 80px;  
 }
 
+
+/* Mobile Styles*/
+
+@media only screen and (max-width: 600px) {
+  /* Mobile Styles go here */
+  body {
+  background-color:#000000;
+  margin: 0px;
+  padding: 0px;
+  }
+  
+  h1{
+  font-size:40px;
+  color:#2F4F4F;
+  margin:0px;
+font-family: 'Labrada', serif;
+  letter-spacing:0.5px;
+  text-align:center;
+}
+   
+  h2{
+    color:#556B2F;
+    font-size:15px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left:5px; 
+}
+
+h3{
+    color:#2F4F4F;
+    font-size:7px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left:5px; 
+}
+  
+p{
+  line-height:5px;
+  font-size:4px;
+  margin-top:5px; 
+  color:#8C99A6; 
+  font-family: 'Josefin Sans', sans-serif;  
+}
+
+p1{
+  line-height:5px;
+  font-size:4px;
+  margin-top:5px; 
+  color:#8C99A6; 
+  font-family: 'Josefin Sans', sans-serif;  
+}
+  
+}
+
